@@ -10,4 +10,4 @@ I developed a predictive model to estimate parking availability by time and loca
 - Visualization of trends by time and location
 ## Project Output
 The full project report and analysis can be viewed here:
-[View Project](https://ericarain68.github.io/isla-vista-parking-prediction/)
+[View Project](https://ericapaschke.github.io/isla-vista-parking-prediction/)
